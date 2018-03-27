@@ -1,0 +1,136 @@
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Mar 27 06:04:39 +0000 2018
+Tweet content: Blahzay Blah
+------------------------
+
+User Command: node liri.js spotify-this-song baby got back 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Baby Got Back
+Artist: Sir Mix-A-Lot
+Album: Jackass The Movie (The Official Soundtrack)
+Preview Here: null
+
+User Command: node liri.js spotify-this-song computer love 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Computer Love
+Artist: Zapp
+Album: All The Greatest Hits
+Preview Here: https://p.scdn.co/mp3-preview/c23d195cc0b87c38fd56aaa0d1dd8b7f1fb4f898?cid=ac659dd5eb93494c9645d699f2675827
+
+User Command: node liri.js spotify-this-song seven nation army 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Seven Nation Army
+Artist: The White Stripes
+Album: Elephant
+Preview Here: https://p.scdn.co/mp3-preview/d5c742f7e2d651d8f34761e045cfbcdb76f6b077?cid=ac659dd5eb93494c9645d699f2675827
+
+User Command: node liri.js spotify-this-song c.r.e.a.m. 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: C.R.E.A.M.
+Artist: Wu-Tang Clan
+Album: Enter The Wu-Tang (36 Chambers) [Expanded Edition]
+Preview Here: https://p.scdn.co/mp3-preview/9afc70b5681f6df86be8af7747372979302c43e8?cid=ac659dd5eb93494c9645d699f2675827
+
+User Command: node liri.js movie-this hard boiled 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Hard Boiled
+Year Released: 16 Apr 1992
+IMBD Rating: 7.9
+Country Produced: Hong Kong
+Language: Cantonese, English
+Plot: Mobsters are smuggling guns into Hong Kong. The police orchestrate a raid at a teahouse where an ace detective loses his partner. Meanwhile, the two main gun smugglers are having a war over territory, and a young new gun is enlisted to wipe out informants and overcome barriers to growth. The detective, acting from inside sources, gets closer to the ring leaders and eventually must work with the inside man directly.
+Actors: Yun-Fat Chow, Tony Chiu-Wai Leung, Teresa Mo, Philip Chan
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: https://www.rottentomatoes.com/m/hard_boiled/
+
+User Command: node liri.js movie-this the 36th chamber of shaolin 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The 36th Chamber of Shaolin
+Year Released: 01 Jun 1979
+IMBD Rating: 7.8
+Country Produced: Hong Kong
+Language: Mandarin
+Plot: The anti-Ching patriots, under the guidance of Ho Kuang-han, have secretly set up their base in Canton, disguised as school masters. During a brutal Manchu attack, Lui manages to escape and devotes himself to learning the martial arts in order to seek revenge. In a short period of time he masters the deadly use of his fists, feet and palms, along with such weapons as swords, sticks, and lances. With his learning complete, he takes on the Manchus.
+Actors: Chia-Hui Liu, Lieh Lo, Chia Yung Liu, Norman Chui
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/36th_chamber_of_shaolin/
+
+User Command: node liri.js movie-this five element ninjas 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Five Element Ninjas
+Year Released: 21 Apr 1982
+IMBD Rating: 7.5
+Country Produced: Hong Kong
+Language: Mandarin
+Plot: A young martial artist seeks revenge on the Ninja who kills his martial arts brothers and teacher. He finds help in the form of a new teacher (who knows Ninjitsu) and new brothers. Together the four pupils face the Five Element Ninja challenge: Wood, Earth, Gold, Water, and Fire.
+Actors: Tien-Chi Cheng, Tien Hsiang Lung, Meng Lo, Michael Wai-Man Chan
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/chinese_super_ninja/
+
+User Command: node liri.js movie-this shottas 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Shottas
+Year Released: 27 Feb 2002
+IMBD Rating: 6.3
+Country Produced: USA, Jamaica
+Language: English
+Plot: This movie is about crime connected to selling drugs and extortion, hence the title. The crimes which start off in Jamaica then move to USA.
+Actors: Ky-Mani Marley, Spragga Benz, Louie Rankin, Paul Campbell
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/shottas/
+
